@@ -8,5 +8,3 @@ About:
 * Rails version: 4.2.1
 * 
 * Database: SQLite 3# SocialNetwork
-* 
-# -
