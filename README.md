@@ -1,1 +1,12 @@
-# SocialNetwork
+== README
+
+OwnSocialNetwork
+About:
+
+* Ruby version: 2.3.0
+* 
+* Rails version: 4.2.1
+* 
+* Database: SQLite 3# SocialNetwork
+* 
+# -
